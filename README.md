@@ -31,7 +31,7 @@
       <a href="https://trendshift.io/repositories/14324" target="_blank">
         <img src="https://trendshift.io/api/badge/repositories/14324" alt="GitHub Trending" height="80">
       </a>
-		test: https://668068.xyz/
+		test: https://blog.cahe.xyz/
     </p>
 </div>
 
